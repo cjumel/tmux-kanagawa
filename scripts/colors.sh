@@ -53,6 +53,7 @@
   dragon_red='#c4746e'
   dragon_pink='#a292a3'
   lotus_white_3='#f2ecbc'
+  lotus_white_4='#e7dba0'
   lotus_ink_1='#545464'
   lotus_ink_2='#43436c'
   lotus_red_2='#d7474b'

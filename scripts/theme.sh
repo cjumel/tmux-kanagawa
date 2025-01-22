@@ -14,8 +14,8 @@ set_theme() {
       yellow=$dragon_yellow
       ;;
     lotus)
-      white=$lotus_white_3
-      gray=$lotus_yellow_2
+      white=$lotus_ink_2
+      gray=$lotus_white_4
       dark_gray=$lotus_white_3
       light_purple=$lotus_red_4
       dark_purple=$lotus_red_4
