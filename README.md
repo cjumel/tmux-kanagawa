@@ -1,5 +1,12 @@
 # Kanagawa for [tmux](https://github.com/tmux/tmux/wiki)
 
+## Fork
+
+This is my personal fork of [Nybkox/tmux-kanagawa](https://github.com/Nybkox/tmux-kanagawa). It
+exists simply to enable additional customization possibilities.
+
+## Introduction
+
 [Kanagawa](https://github.com/rebelot/kanagawa.nvim/tree/master) theme for TMUX with silent colors.
 
 Forked from [dracula/tmux](https://github.com/dracula/tmux).
